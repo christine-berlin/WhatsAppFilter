@@ -9,7 +9,7 @@ An Android application designed to filter incoming WhatsApp notifications based 
 - **Customizable Keywords**: Easily update the keywords to refine notifications.
 
 ## Screenshots
-*(Add relevant screenshots here)*
+...will follow
 
 ## Getting Started
 
